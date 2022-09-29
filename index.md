@@ -9,6 +9,7 @@
 
  **here is the dumbed down version of it**  https://www.reddit.com/r/programming/comments/9dzpu/ask_reddit_why_does_everyone_hate_java/
  [Read more about me!](./PRIVATE.txt)
+ 
  ![Visual Representation of Java](https://abbeypartyrentals.com/images/stories/virtuemart/product/trash_with_liner.jpg)
  ## Ranking of top programming languages
  - RattleSnake
