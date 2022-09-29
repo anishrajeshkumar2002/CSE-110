@@ -5,7 +5,7 @@
 > Java is a cool language
  **Is a quote I will _never_ say**
 `int num = 0` **Is code I would never write**
-**One of my favorite websites is [this] (https://www.reddit.com/r/rant/comments/5pmbyb/fuck_java/)**
+**One of my favorite websites is [this](https://www.reddit.com/r/rant/comments/5pmbyb/fuck_java/)**
 
  **here is the dumbed down version of it**  https://www.reddit.com/r/programming/comments/9dzpu/ask_reddit_why_does_everyone_hate_java/
  [Read more about me!](./PRIVATE.txt)
