@@ -19,8 +19,8 @@ One of my favorite websites is [this](https://www.reddit.com/r/rant/comments/5pm
  
 ![Visual Representation of Java](https://abbeypartyrentals.com/images/stories/virtuemart/product/trash_with_liner.jpg)
 
- ## Ranking of top programming languages
- - RattleSnake
+## Ranking of top programming languages
+- RattleSnake
 - CAVA
 - C--
 
